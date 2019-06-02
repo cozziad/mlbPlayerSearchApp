@@ -1,7 +1,8 @@
-package com.ehword.mlbplayersearch
+package com.ehword.mlbplayersearch.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
+import com.ehword.mlbplayersearch.R
 
 class MainActivity : AppCompatActivity() {
 
